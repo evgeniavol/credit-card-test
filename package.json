@@ -1,0 +1,23 @@
+{
+  "name": "credit-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:unit": "jest",
+    "test": "npm i && jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imask": "^6.4.2",
+    "redom": "^3.27.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "babel-jest": "^28.1.0",
+    "jest": "^28.1.0"
+  }
+}
